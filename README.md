@@ -1,0 +1,2 @@
+# corewar
+CPU battle project
